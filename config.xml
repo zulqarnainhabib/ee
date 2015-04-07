@@ -13,11 +13,12 @@
         Experts Exchange Mobile App. This is not an official app but it is just to help EE users to access it easily on the mobile devices.
     </description>
 
-    <icon src="icon.png" />
-
     <author href="http://www.sysautomation.com" email="support@sysautomation.com">
         ZR Habib
     </author>
         
-
+        
 </widget>
+
+    <icon src="icon.png" />
+
